@@ -9,14 +9,14 @@ I'm a beginner with a keen interest in Web Development and Data Analysis. I'm en
 #### Connect with Me:
 
 You can reach out to me through the following channels:
-- LinkedIn: [<img src="linkedin-logo.png" width="16" height="16"> Your LinkedIn Profile](https://www.linkedin.com/in/ruleluludamara/)
-- Email: rulelulu@gmail.com
+
+[<img src="assets/linkedin.png" height="50">](https://www.linkedin.com/in/ruleluludamara/)
+
+Email: rulelulu@gmail.com
 
 #### Languages I'm Learning and Using:
-
-[<img src="html-logo.png" width="30" height="30">](https://en.wikipedia.org/wiki/HTML) [<img src="css-logo.png" width="30" height="30">](https://en.wikipedia.org/wiki/CSS) [<img src="javascript-logo.png" width="30" height="30">](https://en.wikipedia.org/wiki/JavaScript)
-[<img src="python-logo.png" width="30" height="30">](https://en.wikipedia.org/wiki/Python_(programming_language)) [<img src="sql-logo.png" width="30" height="30">](https://en.wikipedia.org/wiki/SQL)
-[<img src="postgre-logo.png" width="30" height="30">](https://www.postgresql.org/) [<img src="laravel-logo.png" width="30" height="30">](https://laravel.com/) [<img src="java-logo.png" width="30" height="30">](https://www.java.com/)
+[<img src="assets/c.png" height="30">]([https://www.java.com/](https://id.wikipedia.org/wiki/C_(bahasa_pemrograman))) [<img src="assets/cpp.png" height="30">](https://id.wikipedia.org/wiki/C%2B%2B)
+[<img src="assets/html.png" height="30">](https://en.wikipedia.org/wiki/HTML) [<img src="assets/Python.png" height="30">](https://en.wikipedia.org/wiki/Python_(programming_language)) [<img src="assets/MySql.png" height="30">](https://en.wikipedia.org/wiki/SQL) [<img src="assets/postgre.png" height="30">](https://www.postgresql.org/) [<img src="assets/Laravel.png" height="30">](https://laravel.com/) [<img src="assets/Java.png" height="30">](https://www.java.com/) [<img src="assets/pngwing.com.png" height="30">]([https://www.java.com/](https://www.phpmyadmin.net/)) 
 
 <!--
 **RuleLuluDamara/RuleLuluDamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
